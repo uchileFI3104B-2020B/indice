@@ -5,5 +5,5 @@
 
 ## TAREAS
 
-- [Tarea 1: 19-Septiembre 21:59 hrs](https://github.com/uchileFI3104B-2020B/01-tarea-template): Raíces e Integrales Numéricas.
-- [Tarea 2: 10-Octubre 21:59 hrs](https://github.com/uchileFI3104B-2020B/02-tarea-template): EDOs I
+- [Tarea 1: 26-Septiembre 21:59 hrs](https://github.com/uchileFI3104B-2020B/01-tarea-template): Raíces e Integrales Numéricas.
+- [Tarea 2: 17-Octubre 21:59 hrs](https://github.com/uchileFI3104B-2020B/02-tarea-template): EDOs I
