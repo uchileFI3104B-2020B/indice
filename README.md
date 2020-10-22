@@ -7,7 +7,7 @@
 - [Interpolación y Álgebra lineal](https://github.com/uchileFI3104B-2020B/demo-interpolacion-algebra-lineal)
 - [Demo RK2, péndulo](https://github.com/uchileFI3104B-2020B/demo-rk2)
 - [OOP y ODEs](https://github.com/uchileFI3104B-2020B/demo-oop)
-
+- [EDPs Elipticas, sobre-relajacion](https://github.com/uchileFI3104B-2020B/demo-sobre-relajacion)
 
 
 ## TAREAS
