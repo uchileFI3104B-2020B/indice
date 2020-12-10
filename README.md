@@ -16,4 +16,5 @@
 - [Tarea 2: 17-Octubre 21:59 hrs](https://github.com/uchileFI3104B-2020B/02-tarea-template): EDOs I
 - [Tarea 3: 07-Noviembre 21:59 hrs](https://github.com/uchileFI3104B-2020B/03-tarea-template): EDOs II
 - [Tarea 4: 21-Noviembre 21:59 hrs](https://github.com/uchileFI3104B-2020B/04-tarea-template): EDPs - sobre-relajación.
-- [Tarea 5: 20-Diciembre 21:59 hrs](https://github.com/uchileFI3104B-2020B/05-tarea-template): Métodos Aleatorios
+- [Tarea 5: 10-Diciembre 21:59 hrs](https://github.com/uchileFI3104B-2020B/05-tarea-template): Métodos Aleatorios
+- [Tarea 6: 23-Diciembre 23:59 hrs](https://github.com/uchileFI3104B-2020B/06-tarea-template): Modelamiento de Datos
