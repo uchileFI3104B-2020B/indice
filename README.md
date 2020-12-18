@@ -9,6 +9,7 @@
 - [OOP y ODEs](https://github.com/uchileFI3104B-2020B/demo-oop)
 - [EDPs Elipticas, sobre-relajacion](https://github.com/uchileFI3104B-2020B/demo-sobre-relajacion)
 - [EDPs Parabolicas, Crank-Nicolson](https://github.com/uchileFI3104B-2020B/demo-crank-nicolson)
+- [Ajuste de Datos](https://github.com/uchileFI3104B-2020B/demo-ajuste-de-datos)
 
 ## TAREAS
 
